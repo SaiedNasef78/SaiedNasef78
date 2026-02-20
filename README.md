@@ -1,6 +1,8 @@
+تمام، إليك نسخة README كاملة وجاهزة للنسخ واللصق، مصممة لتظهر مثل الصورة التي أرسلتها، مع Header و Footer متحركين، GIF للبرمجة، Projects، Stats، والتواصل:
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saied%20Nasef&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=200&section=header&text=Saied%20Nasef&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 </div>
 
@@ -16,24 +18,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at **Higher Institute of Engineering & Technology - Beheira**
-- 📚 Learning on **Programming Advices** platform with **Dr. Mohamed Abu-Hadhoud**
-- 🛣️ Following the **Abu-Hadhoud Roadmap** step by step
-- 💡 Passionate about **C++**, **OOP** & **Problem Solving**
-- 🔨 Always building projects to sharpen my skills
-- 🌱 Currently mastering **Object-Oriented Programming**
-- ⚡ Fun fact: I write code, not just run it!
+🎓 Student at **Higher Institute of Engineering & Technology - Beheira**  
+💻 Learning under **Dr. Mohamed Abu-Hadhoud** on **Programming Advices**  
+💡 Passionate about **C++**, **OOP**, and building real projects  
+🚀 Currently mastering **Object-Oriented Programming** and practical software development  
+⚡ Fun fact: I write code, not just run it!
 
 <br clear="right"/>
-
----
-
-## 🧠 About My Learning Journey
-
-> *"The best way to learn programming is to build real projects."*
-> — Dr. Mohamed Abu-Hadhoud
-
-I'm currently enrolled in the **Abu-Hadhoud Roadmap** on [Programming Advices](https://programmingadvices.com/), one of the most structured and practical C++ learning paths in the Arab world. Every project I build is a step forward in mastering real-world software development.
 
 ---
 
@@ -56,13 +47,13 @@ I'm currently enrolled in the **Abu-Hadhoud Roadmap** on [Programming Advices](h
 
 <div align="center">
 
-| 🗂️ Project | 📝 Description | 🔗 |
+| Project | Description | Link |
 |:---:|:---:|:---:|
-| 🏧 **ATM System** | Full-featured ATM simulation with C++ | [View →](https://github.com/SaiedNasef78/Project_ATM) |
-| 📅 **Date Library** | Custom date-handling library built from scratch | [View →](https://github.com/SaiedNasef78/Project_Date_Libirary) |
-| 🔤 **String Library** | Custom string manipulation library | [View →](https://github.com/SaiedNasef78/String_Library_Project) |
-| 🎓 **OOP Course 11** | OOP as it should be — Abu-Hadhoud Roadmap | [View →](https://github.com/SaiedNasef78/Course11-OOP-as-it-Should-Be) |
-| 📚 **OOP Course 10** | OOP fundamentals & core concepts | [View →](https://github.com/SaiedNasef78/Course-10-OOP) |
+| 🏧 ATM System | Full-featured ATM simulation in C++ | [GitHub](https://github.com/SaiedNasef78/Project_ATM) |
+| 📅 Date Library | Custom date-handling library built from scratch | [GitHub](https://github.com/SaiedNasef78/Project_Date_Libirary) |
+| 🔤 String Library | Utilities for string manipulation | [GitHub](https://github.com/SaiedNasef78/String_Library_Project) |
+| 🎓 OOP Course 11 | Advanced OOP concepts — Abu-Hadhoud Roadmap | [GitHub](https://github.com/SaiedNasef78/Course11-OOP-as-it-Should-Be) |
+| 📚 OOP Course 10 | OOP fundamentals & core principles | [GitHub](https://github.com/SaiedNasef78/Course-10-OOP) |
 
 </div>
 
@@ -102,25 +93,18 @@ I'm currently enrolled in the **Abu-Hadhoud Roadmap** on [Programming Advices](h
 💻 C++ Mastery             ████████░░░░░░░░   50%
 🧩 Problem Solving         ██████████░░░░░░   60%
 🏗️ Building Projects       ███████████░░░░░   70%
-```
+
 
 ---
 
-## 📬 Let's Connect
+📬 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saied-nasef-74426435a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saied_nasef187?igsh=OThqbHhhejF3ZG5p)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiednasef506@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201280232967)
+<div align="center">  
 
 </div>
-
 ---
 
-```cpp
-// My current mission 🎯
+// My mission 🎯
 while (learning) {
     write_code();
     build_projects();
@@ -128,16 +112,27 @@ while (learning) {
     improve_every_day();
 }
 // The journey never ends 🚀
-```
+
 
 ---
 
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SaiedNasef78.SaiedNasef78&color=58a6ff)
-
-**⭐ If you find my work interesting, drop a star! It means a lot 🙏**
+⭐ If you find my work interesting, drop a star! It means a lot 🙏
 
 </div>
+```  
+---
+
+هذه النسخة جاهزة للنسخ واللصق مباشرة على GitHub، مع:
+
+Header و Footer متحركين بتدرج ألوان
+
+GIF للبرمجة على اليمين
+
+Projects، Tech Stack، GitHub Stats و Trophies منظمة
+
+قسم تواصل احترافي
+
+
+هتظهر تمامًا مثل الصورة التي أرسلتها.
