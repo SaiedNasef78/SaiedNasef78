@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Saied%20Nasef&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Software%20Engineering%20Student%20|%20Aspiring%20.NET%20Developer&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Saied%20Nasef&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Software%20Engineering%20Student%20|%20Aspiring%20.NET%20Developer&descAlignY=70"/>
 
 # 👋 Hi, I'm Saied Nasef
 
 ### Software Engineering Student | Aspiring .NET Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Aspiring+.NET+Developer;C%2B%2B+%7C+C%23+%7C+Windows+Forms;Building+Real-World+Projects;Always+Learning+New+Things"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Aspiring+.NET+Developer;C%2B%2B+%7C+C%23+%7C+Windows+Forms;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 # 👨‍💻 About Me
 
 🎓 Software Engineering Student at the Higher Institute of Engineering & Technology – Beheira.
 
-💻 Passionate about software engineering and desktop application development.
+💻 Passionate about Software Engineering and Desktop Application Development.
 
-📚 Currently following Dr. Mohamed Abu-Hadhoud's Roadmap through Programming Advices, where I focus on learning through real-world projects.
+📚 Following Dr. Mohamed Abu-Hadhoud's Roadmap through Programming Advices.
 
-🚀 I enjoy building applications that strengthen my understanding of programming fundamentals, Object-Oriented Programming, and software design.
+🚀 Building real-world projects to improve my programming and software engineering skills.
 
-🎯 My goal is to become a professional .NET Developer by continuously learning and building practical software projects.
+🎯 My goal is to become a professional .NET Developer.
 
 <br clear="right"/>
 
@@ -36,7 +36,7 @@
 - 🎨 C#
 - 🖥 Windows Forms
 - 🏛 Object-Oriented Programming (OOP)
-- 🧠 Problem Solving
+- 🧩 Problem Solving
 - 📚 Data Structures
 - ✨ Clean Code
 
@@ -45,18 +45,16 @@
 # 🏆 Highlights
 
 - 🚀 Building Real-World Desktop Applications
-- 📚 Following Dr. Mohamed Abu-Hadhoud's Roadmap
+- 📚 Following Abu-Hadhoud Roadmap
 - 💡 Passionate about Software Engineering
 - 🧩 Strong Interest in Problem Solving
-- 🎯 Focused on Becoming a Professional .NET Developer
+- 🎯 Future .NET Developer
 
----
-
-# 🛠 Tech Stack
+---# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github"/>
 
 </div>
 
@@ -64,16 +62,19 @@
 
 # 🚀 Featured Projects
 
-> Every project represents a milestone in my learning journey toward becoming a professional .NET Developer.
+<div align="center">
 
-| 🚀 Project | 📝 Description |
-|------------|----------------|
-| 🏧 ATM System | A complete ATM simulation built with C++, applying Object-Oriented Programming concepts. |
-| 🍕 Pizza Order System | Interactive Windows Forms application for pizza ordering with dynamic price calculation and user-friendly interface. |
-| 📅 Date Library | A custom date manipulation library developed completely from scratch. |
-| 🔤 String Library | A custom C++ string library implementing common string operations. |
-| 🏦 Bank Client Management System | Banking management system applying Object-Oriented Programming principles. |
-| 📚 Programming Advices Projects | Practical projects developed while following Dr. Mohamed Abu-Hadhoud's roadmap. |
+| 🗂 Project | 📝 Description | 🔗 |
+|:---:|:---:|:---:|
+| 🏧 ATM System | Full-featured ATM simulation with C++ | [View →](https://github.com/SaiedNasef78/Project_ATM) |
+| 🍕 Pizza Order System | Interactive Windows Forms application with dynamic pizza customization and price calculation. | [View →](https://github.com/SaiedNasef78/Project_Pizza_Order) |
+| 📅 Date Library | Custom date-handling library built from scratch | [View →](https://github.com/SaiedNasef78/Project_Date_Libirary) |
+| 🔤 String Library | Custom string manipulation library | [View →](https://github.com/SaiedNasef78/String_Library_Project) |
+| 🏦 Bank Client Management System | OOP implementation for bank management | [View →](https://github.com/SaiedNasef78/Course11-OOP-as-it-Should-Be/tree/main/Project_Banck_System) |
+| 🎓 OOP Course 11 | OOP as it should be — Abu-Hadhoud Roadmap | [View →](https://github.com/SaiedNasef78/Course11-OOP-as-it-Should-Be) |
+| 📚 OOP Course 10 | OOP fundamentals & core concepts | [View →](https://github.com/SaiedNasef78/Course-10-OOP) |
+
+</div>
 
 ---
 
@@ -81,7 +82,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiedNasef78&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiedNasef78&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiedNasef78&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -97,34 +98,23 @@
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiedNasef78&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 💼 Current Focus
 
-- 💻 Building Desktop Applications using C# & Windows Forms
-- 📖 Mastering Object-Oriented Programming
+- 💻 Building Desktop Applications with C# & Windows Forms
+- 📚 Mastering Object-Oriented Programming
 - 🧩 Improving Problem Solving Skills
-- ⚙ Writing Clean & Maintainable Code
-- 🚀 Building High-Quality Projects for my Portfolio
+- 🚀 Building Professional Projects
+- 📖 Following Dr. Mohamed Abu-Hadhoud's Roadmap
 
 ---
-
 
 # 🎯 2026 Goals
 
 - 🚀 Become a Professional .NET Developer
-- 💻 Build High-Quality Desktop Applications
+- 💻 Build Professional Desktop Applications
 - 📚 Master Object-Oriented Programming
 - 🧩 Improve Problem Solving Skills
-- 🏗 Build Real-World Projects
+- 🏗 Build More Real-World Projects
 - 🌍 Contribute to Open Source
 - ⭐ Build a Strong GitHub Portfolio
 
@@ -132,13 +122,13 @@
 
 # 📖 My Learning Journey
 
-> *"Learning by doing is the best way to become a better software developer."*
+> *"Learning never stops. Every project is a new lesson."*
 
-I enjoy transforming ideas into real applications and continuously improving my programming skills through hands-on practice.
+I believe that the best way to become a software engineer is by building real projects.
 
-Every project I build teaches me something new and brings me one step closer to becoming a professional software developer.
+Currently, I am following Dr. Mohamed Abu-Hadhoud's Roadmap on Programming Advices, where I continue improving my programming fundamentals, Object-Oriented Programming, and desktop application development skills.
 
-Currently, I'm following Dr. Mohamed Abu-Hadhoud's Roadmap on Programming Advices, where I focus on mastering programming fundamentals, Object-Oriented Programming, desktop application development, and software engineering best practices.
+Every repository on my GitHub represents a step forward in my learning journey.
 
 ---
 
@@ -158,17 +148,21 @@ Currently, I'm following Dr. Mohamed Abu-Hadhoud's Roadmap on Programming Advice
 
 ---
 
-# 💡 Philosophy
-
-> "Success is not measured by how many courses you finish, but by the quality of the projects you build."
-
----
-
-# 📈 Profile Views
+# 📊 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SaiedNasef78&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SaiedNasef78&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code." – John Johnson
 
 </div>
 
@@ -176,10 +170,11 @@ Currently, I'm following Dr. Mohamed Abu-Hadhoud's Roadmap on Programming Advice
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you like my projects, don't forget to leave a ⭐ on the repositories.
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0D1117"/>
 
-</div>
