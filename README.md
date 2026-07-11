@@ -51,7 +51,73 @@
 - 🎯 Focused on Becoming a Professional .NET Developer
 
 ---
-https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+> Every project represents a milestone in my learning journey toward becoming a professional .NET Developer.
+
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🏧 ATM System | A complete ATM simulation built with C++, applying Object-Oriented Programming concepts. |
+| 🍕 Pizza Order System | Interactive Windows Forms application for pizza ordering with dynamic price calculation and user-friendly interface. |
+| 📅 Date Library | A custom date manipulation library developed completely from scratch. |
+| 🔤 String Library | A custom C++ string library implementing common string operations. |
+| 🏦 Bank Client Management System | Banking management system applying Object-Oriented Programming principles. |
+| 📚 Programming Advices Projects | Practical projects developed while following Dr. Mohamed Abu-Hadhoud's roadmap. |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiedNasef78&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiedNasef78&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SaiedNasef78&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiedNasef78&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Current Focus
+
+- 💻 Building Desktop Applications using C# & Windows Forms
+- 📖 Mastering Object-Oriented Programming
+- 🧩 Improving Problem Solving Skills
+- ⚙ Writing Clean & Maintainable Code
+- 🚀 Building High-Quality Projects for my Portfolio
+
+---
+
+
 # 🎯 2026 Goals
 
 - 🚀 Become a Professional .NET Developer
