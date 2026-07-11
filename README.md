@@ -132,21 +132,13 @@ Every repository on my GitHub represents a step forward in my learning journey.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiedNasef78)
 
-<a href="https://github.com/SaiedNasef78">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saied-nasef-33442134b)
 
-<a href="https://www.linkedin.com/in/saied-nasef-33442134b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiednasef506@gmail.com)
 
 # 📊 Profile Views
 
